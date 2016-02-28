@@ -1,0 +1,562 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Library>
+    <BookSerie title="The Stormlight Archive">
+        <BookMiniSerie miniTitle="Initial" total="5" genre="Epic Fantasy" coverArtist="Michael Whelan">
+            <Publisher name="Tor Books" country="US"/>
+
+            <Book title="The Way of Kings" cover="http://brandonsanderson.com/beta/wp-content/uploads/2013/07/the-way-of-kings.jpg"
+                  publicationDate="2010-08-31" pages="1008" chapters="87" words="386470" rate="4.62" ratings="111961">
+                <Synopsis><![CDATA[
+                    <blockquote>&nbsp;Speak again the ancient oaths,<br><br>&nbsp;<em>Life before death.<br>&nbsp;Strength before weakness.<br>&nbsp;Journey before Destination.</em><br><br>&nbsp;and return to men the
+                    Shards they once bore.<br><br><strong>&nbsp;The Knights Radiant must stand again.</strong></blockquote>
+                    Roshar is a world of stone swept by tempests that shape ecology and civilization. Animals and plants retract; cities are built in shelter. In centuries
+                    since ten orders of Knights fell, their Shardblade swords and Shardplate armor still transform men into near-invincible warriors. Wars are fought for them, and won by them.<br><br>In one such
+                    war on ruined Shattered Plains, slave Kaladin struggles to save his men and fathom leaders who deem them expendable, in senseless wars where ten armies fight separately against one foe.
+                    <br><br>Brightlord Dalinar Kholin commands one of those other armies. Fascinated by ancient text <em>The Way of Kings</em>, troubled by visions of ancient times, he doubts his sanity.
+                    <br><br>Across the ocean, Shallan trains under eminent scholar and notorious heretic, Dalinar’s niece Jasnah. Though Shallan genuinely loves learning, she plans a daring theft. Her research
+                    hints at secrets of the Knights Radiant and the true cause of the war.
+                ]]></Synopsis>
+
+                <Award title="Whitney" category="Best Novel" year="2010" organization="LDStorymakers" result="Won"/>
+                <Award title="David Gemmell Legend" category="Best Novel" year="2011" organization="DGLA" result="Won"/>
+                <Award title="Goodreads Choice" category="Best Fantasy Novel" year="2010" organization="Goodreads" result="Nominated"/>
+                <Bestseller organization="New York Times" category="Hardcover Fiction" result="7"/>
+
+                <Link name="Official webpage" url="http://brandonsanderson.com/books/the-stormlight-archive/the-way-of-kings/"/>
+                <Link name="Goodreads" url="https://www.goodreads.com/book/show/7235533.The_Way_of_Kings"/>
+            </Book>
+            <Book title="Words of Radiance" cover="http://brandonsanderson.com/beta/wp-content/uploads/2013/07/words-of-radiance.jpg"
+                  publicationDate="2014-03-04" pages="1088" chapters="89" words="417142" rate="4.76" ratings="66627">
+                <Synopsis><![CDATA[
+                    In the first volume, we were introduced to the remarkable world of Roshar, a world both alien and magical, where gigantic hurricane-like storms scour the surface every few days and life has adapted
+                    accordingly. Roshar is shared by humans and the enigmatic, humanoid Parshendi, with whom they are at war. Among those caught up in the conflict are Highprince Dalinar Kholin, who leads the human
+                    armies; his neice Jasnah, a renowned scholar; her student Shallan, a brilliant but troubled young woman; and Kaladin, a military slave who, by the book’s end, was beginning to become the first
+                    magically endowed Knight Radiant in centuries.<br><br>In Words of Radiance their intertwined stories will continue and, as Sanderson fans have come to expect, develop in unexpected, wonderfully
+                    surprising directions. The war with the Parshendi will move into a new, dangerous phase, as Dalinar leads the human armies deep into the heart of the Shattered Plains in a bold attempt to finally
+                    end it. Shallan will come along, hoping to find the legendary, perhaps mythical, city of Urithuru, which Jasnah believes holds a secret vital to mankind’s survival on Roshar. The Parshendi take a
+                    dangerous step to strengthen themselves for the human challenge, risking the return of the fearsome Voidbringers of old. To deal with it all, Kaladin must learn how to fulfill his new role, while
+                    mastering the powers of a Windrunner.
+                ]]></Synopsis>
+
+                <Award title="Whitney" category="Speculative Fiction" year="2014" organization="LDStorymakers" result="Won"/>
+                <Award title="David Gemmell Legend" category="Best Novel" year="2015" organization="DGLA" result="Won"/>
+                <Award title="Audie" category="Fantasy" year="2015" organization="" result="Won"/>
+                <Award title="Goodreads Choice" category="Best Fantasy" year="2014" organization="Goodreads" result="Nominated"/>
+
+                <Bestseller organization="New York Times" category="Hardcover Fiction" result="1"/>
+                <Bestseller organization="Kobo" category="Combined print/ebook" result="1"/>
+                <Bestseller organization="National Indie" category="Hardcover Fiction"  result="3"/>
+                <Bestseller organization="Southern California Independent Bookseller Association" category="Hardcover Fiction" result="6"/>
+                <Bestseller organization="Sunday Times of Londen" category="Hardcover Fiction" result="2"/>
+
+                <Link name="Official Webpage" url="http://brandonsanderson.com/books/the-stormlight-archive/words-of-radiance/"/>
+                <Link name="Goodreads" url="https://www.goodreads.com/book/show/11543195.Words_of_Radiance"/>
+            </Book>
+        </BookMiniSerie>
+        <BookMiniSerie miniTitle="Final" total="5" />
+    </BookSerie>
+
+    <BookSerie title="The Wheel of Time">
+        <BookMiniSerie title="Robert Jordan" miniTitle="Jordan" total="11" isBrandonAuthor="false"/>
+        <BookMiniSerie title="Coauthor with Robert Jordan" miniTitle="Coauthor" total="3" genre="Epic Fantasy" coverArtist="Darrell K. Sweet (Michael Whelan for 'A Memory of Light')">
+            <Publisher name="Tor Books" country="US"/>
+            <Publisher name="Orbit Books" country="UK"/>
+
+            <Book title="The Gathering Storm" cover="http://brandonsanderson.com/beta/wp-content/uploads/2013/07/the-gathering-storm.jpg"
+                  publicationDate="2009-10-27" pages="766" chapters="50" words="297502" audioTime="33h 02m" rate="4.32" ratings="82932">
+                <Synopsis><![CDATA[
+                    Tarmon Gai'don, the Last Battle, looms. And mankind is not ready.<br><br>The final volume of the Wheel of Time, <em>A Memory of Light,</em> was partially written by Robert Jordan before his untimely
+                    passing in 2007. Brandon Sanderson, <em>New York Times</em> bestselling author of the Mistborn books, was chosen by Jordan's editor---his wife, Harriet McDougal---to complete the final book. The scope
+                    and size of the volume was such that it could not be contained in a single book, and so Tor proudly presents <em>The Gathering Storm</em> as the first of three novels that will make up <em>A Memory of
+                    Light.</em> This short sequence will complete the struggle against the Shadow, bringing to a close a journey begun almost twenty years ago and marking the conclusion of the Wheel of Time, the preeminent
+                    fantasy epic of our era.<br><br>In this epic novel, Robert Jordan's international bestselling series begins its dramatic conclusion. Rand al'Thor, the Dragon Reborn, struggles to unite a fractured
+                    network of kingdoms and alliances in preparation for the Last Battle. As he attempts to halt the Seanchan encroachment northward---wishing he could form at least a temporary truce with the invaders---his
+                    allies watch in terror the shadow that seems to be growing within the heart of the Dragon Reborn himself.<br><br>Egwene al'Vere, the Amyrlin Seat of the rebel Aes Sedai, is a captive of the White Tower
+                    and subject to the whims of their tyrannical leader. As days tick toward the Seanchan attack she knows is imminent, Egwene works to hold together the disparate factions of Aes Sedai while providing
+                    leadership in the face of increasing uncertainty and despair. Her fight will prove the mettle of the Aes Sedai, and her conflict will decide the future of the White Tower---and possibly the world
+                    itself.<br><br>The Wheel of Time turns, and Ages come and pass. What was, what will be, and what is, may yet fall under the Shadow.
+                ]]></Synopsis>
+
+                <Link name="Official webpage" url="http://brandonsanderson.com/books/the-wheel-of-time/the-gathering-storm/"/>
+                <Link name="Goodreads" url="https://www.goodreads.com/book/show/1166599.The_Gathering_Storm"/>
+            </Book>
+            <Book title="Towers of Midnight" cover="http://brandonsanderson.com/beta/wp-content/uploads/2013/07/tower-of-midnight.jpg"
+                  publicationDate="2010-11-02" pages="843" chapters="57" words="327052" audioTime="38h 17m" rate="4.4" ratings="80450">
+                <Synopsis><![CDATA[
+                    <strong>The end draws near....</strong><br><br>The Last Battle has started. The seals on the Dark One’s prison are crumbling. The Pattern itself is unraveling, and the armies of the Shadow have begun
+                    to boil out of the Blight.<br><br>The sun has begun to set upon the Third Age.<br><br>Perrin Aybara is now hunted by specters from his past: Whitecloaks, a slayer of wolves, and the responsibilities
+                    of leadership. All the while, an unseen foe is slowly pulling a noose tight around his neck. To prevail, he must seek answers in <em>Tel’aran’rhiod</em> and find a way--at long last--to master the wolf
+                    within him or lose himself to it forever<br><br>Meanwhile, Matrim Cauthon prepares for the most difficult challenge of his life. The creatures beyond the stone gateways--the Aelfinn and the Eelfinn--have
+                    confused him, taunted him, and left him hanged, his memory stuffed with bits and pieces of other men’s lives. He had hoped that his last confrontation with them would be the end of it, but the Wheel
+                    weaves as the Wheel wills. The time is coming when he will again have to dance with the Snakes and the Foxes, playing a game that cannot be won. The Tower of Ghenjei awaits, and its secrets will reveal
+                    the fate of a friend long lost.<br><br>This penultimate novel of Robert Jordan’s #1 <em>New York Times</em> bestselling series--the second of three based on materials he left behind when he died in
+                    2007--brings dramatic and compelling developments to many threads in the Pattern. The end draws near.<br><br><em>Dovie’andi se tovya sagain.</em> It’s time to toss the dice.
+                ]]></Synopsis>
+
+                <Award title="Goodreads Choice" category="Best Fantasy" year="2010" organization="Goodreads" result="Won"/>
+
+                <Link name="Official webpage" url="http://brandonsanderson.com/books/the-wheel-of-time/towers-of-midnight/"/>
+                <Link name="Goodreads" url="https://www.goodreads.com/book/show/8253920.Towers_of_Midnight"/>
+            </Book>
+            <Book title="A Memory of Light" cover="http://brandonsanderson.com/beta/wp-content/uploads/2013/07/a-memory-of-light.jpg"
+                  publicationDate="2013-01-08" pages="909" chapters="49" words="353906" audioTime="41h 55m" rate="4.50" ratings="54525">
+                <Synopsis><![CDATA[
+                    Since 1990, when Robert Jordan's The Wheel of Time burst on the world with its first book, <em>The Eye of the World,</em> readers have been anticipating the final scenes of this extraordinary saga,
+                    which has sold over forty million copies in over thirty languages.<br><br>When Robert Jordan died in 2007, all feared that these concluding scenes would never be written. But working from notes and
+                    partials left by Jordan, established fantasy writer Brandon Sanderson stepped in to complete the masterwork. With <em>The Gathering Storm</em> (Book 12) and <em>Towers of Midnight </em>(Book 13)
+                    behind him, both of which were # 1 <em>New York Times</em> hardcover bestsellers, Sanderson now re-creates the vision that Robert Jordan left behind.<br><br>Edited by Jordan's widow, who edited all
+                    of Jordan's books, <em>A Memory of Light</em> will delight, enthrall, and deeply satisfy all of Jordan's legions of readers.<br><br>The Wheel of Time turns, and Ages come and pass.<br>What was, what
+                    will be, and what is,<br>may yet fall under the Shadow.<br><em>Let the Dragon ride again on the winds of time.
+                ]]></Synopsis>
+
+                <Award title="Goodreads Choice" category="Best Fantasy" year="2013" organization="Goodreads" result="Nominated"/>
+                <Award title="David Gemmell Legend" category="Best Novel" year="2014" organization="DGLA" result="Nominated"/>
+
+                <Link name="Official webpage" url="http://brandonsanderson.com/books/the-wheel-of-time/a-memory-of-light/"/>
+                <Link name="Goodreads" url="https://www.goodreads.com/book/show/1166599.A_Memory_of_Light"/>
+            </Book>
+        </BookMiniSerie>
+    </BookSerie>
+
+    <BookSerie title="Mistborn">
+        <BookMiniSerie title="Mistborn Original Trilogy" total="3" genre="High Fantasy" coverArtist="Jon Foster">
+            <Publisher name="Tor Fantasy" country="US"/>
+
+            <Book title="The Final Empire" cover="http://brandonsanderson.com/beta/wp-content/uploads/2013/07/the-final-empire.jpg"
+                  publicationDate="2006-07-17" pages="541" chapters="38" words="213000" rate="4.41" ratings="163828">
+                <Synopsis><![CDATA[
+                    In a world where ash falls from the sky, and mist dominates the night, an evil cloaks the land and stifles all life. The future of the empire rests on the shoulders of a troublemaker and his young
+                    apprentice. Together, can they fill the world with color once more?<br><br>In Brandon Sanderson's intriguing tale of love, loss, despair and hope, a new kind of magic enters the stage - Allomancy,
+                    a magic of the metals.
+                ]]></Synopsis>
+
+                <Award title="Romantic Times" category="Best Epic Fantasy" year="2006" organization="Romantic Times" result="Nominated"/>
+
+                <Link name="Official webpage" url="http://brandonsanderson.com/books/mistborn/the-final-empire/"/>
+                <Link name="Goodreads" url="https://www.goodreads.com/book/show/68428.The_Final_Empire"/>
+            </Book>
+            <Book title="The Well of Ascension" cover="http://brandonsanderson.com/beta/wp-content/uploads/2013/07/the-well-of-ascension.jpg"
+                  publicationDate="2007-08-21" pages="590" chapters="59" words="245000" rate="4.34" ratings="116646">
+                <Synopsis><![CDATA[
+                    The impossible has been accomplished. The Lord Ruler – the man who claimed to be god incarnate and brutally ruled the world for a thousand years – has been vanquished. But Kelsier, the hero who
+                    masterminded that triumph, is dead too, and now the awesome task of building a new world has been left to his young protégé, Vin, the former street urchin who is now the most powerful Mistborn
+                    in the land, and to the idealistic young nobleman she loves.<br><br>As Kelsier’s protégé and slayer of the Lord Ruler she is now venerated by a budding new religion, a distinction that makes her
+                    intensely uncomfortable. Even more worrying, the mists have begun behaving strangely since the Lord Ruler died, and seem to harbor a strange vaporous entity that haunts her.<br><br>Stopping
+                    assassins may keep Vin’s Mistborn skills sharp, but it’s the least of her problems. Luthadel, the largest city of the former empire, doesn’t run itself, and Vin and the other members of Kelsier’s
+                    crew, who lead the revolution, must learn a whole new set of practical and political skills to help. It certainly won’t get easier with three armies – one of them composed of ferocious giants – now
+                    vying to conquer the city, and no sign of the Lord Ruler’s hidden cache of atium, the rarest and most powerful allomantic metal.<br><br>As the siege of Luthadel tightens, an ancient legend seems
+                    to offer a glimmer of hope. But even if it really exists, no one knows where to find the Well of Ascension or what manner of power it bestows.
+                ]]></Synopsis>
+
+                <Award title="Romantic Times" category="Best Epic Fantasy" year="2007" organization="Romantic Times" result="Nominated"/>
+                <Award title="Whitney" category="Best Speculative Fiction" year="2007" organization="LDStorymakers" result="Nominated"/>
+
+                <Link name="Official webpage" url="http://brandonsanderson.com/books/mistborn/the-well-of-ascension/"/>
+                <Link name="Goodreads" url="https://www.goodreads.com/book/show/68429.The_Well_of_Ascension"/>
+            </Book>
+            <Book title="The Hero of Ages" cover="http://brandonsanderson.com/beta/wp-content/uploads/2013/07/the-hero-of-ages.jpg"
+                  publicationDate="2008-10-14" pages="572" chapters="82" words="234000" rate="4.43" ratings="110301">
+                <Synopsis><![CDATA[
+                    Tricked into releasing the evil spirit Ruin while attempting to close the Well of Ascension, new emperor Elend Venture and his wife, the assassin Vin, are now hard-pressed to save the world.
+                    This adventure brings the Mistborn epic fantasy trilogy to a dramatic and surprising climax as Sanderson's saga offers complex characters and a compelling plot, asking hard questions about loyalty,
+                    faith and responsibility.
+                ]]></Synopsis>
+
+                <Award title="Romantic Times" category="Best Epic Fantasy" year="2008" organization="Romantic Times" result="Won"/>
+                <Award title="Whitney" category="Best Speculative Fiction" year="2008" organization="LDStorymakers" result="Won"/>
+                <Award title="Indie" category="Next List Notable" year="2008" organization="" result="Mention"/>
+                <Bestseller organization="New York Times" category="Hardcover Fiction" result="21"/>
+
+                <Link name="Official webpage" url="http://brandonsanderson.com/books/mistborn/the-hero-of-ages/"/>
+                <Link name="Goodreads" url="https://www.goodreads.com/book/show/2767793-the-hero-of-ages"/>
+            </Book>
+        </BookMiniSerie>
+        <BookMiniSerie title="Wax and Wayne Books" miniTitle="1900" total="4" genre="High Fantasy" coverArtist="Chris McGrath">
+            <Publisher name="Tor Fantasy" country="US"/>
+
+            <Book title="The Alloy of Law" cover="http://brandonsanderson.com/beta/wp-content/uploads/2013/07/the-alloy-of-law.jpg"
+                  publicationDate="2011-11-08" pages="336" chapters="20" words="85000" rate="4.19" ratings="54683">
+                <Synopsis><![CDATA[
+                    Centuries after the Mistborn trilogy, Scadrial is on the verge of modernity - railroads, electric street lights, and skyscrapers. Waxillium Ladrian can Push on metals with his Allomancy and use
+                    Feruchemy to become lighter or heavier at will. After 20 years in the dusty Roughs, in the city of Elendel, the new head of a noble house may need to keep his guns.
+                ]]></Synopsis>
+
+                <Award title="Whitney" category="Best Speculative Fiction" year="2011" organization="LDStorymakers" result="Won"/>
+
+                <Link name="Official webpage" url="http://brandonsanderson.com/books/mistborn/the-alloy-of-law/"/>
+                <Link name="Goodreads" url="https://www.goodreads.com/book/show/10803121.The_Alloy_of_Law"/>
+            </Book>
+            <Book title="Shadows of Self" cover="http://brandonsanderson.com/beta/wp-content/uploads/2013/07/Shadows_of_Self_thumb.jpg"
+                  publicationDate="2015-10-06" pages="384" chapters="26" words="115000" rate="4.34" ratings="9176">
+                <Synopsis><![CDATA[
+                    <em>Shadows of Self</em> shows Mistborn’s society evolving as technology and magic mix, the economy grows, democracy contends with corruption, and religion becomes a growing cultural force, with
+                    four faiths competing for converts.<br><br>This bustling, optimistic, but still shaky society now faces its first instance of terrorism, crimes intended to stir up labor strife and religious conflict.
+                    Wax and Wayne, assisted by the lovely, brilliant Marasi, must unravel the conspiracy before civil strife stops Scadrial’s progress in its tracks.<br><br><em>Shadows of Self</em> will give fans of
+                    <em>The Alloy of Law</em> everything they’ve been hoping for and, this being a Brandon Sanderson book, more, much more.
+                ]]></Synopsis>
+
+                <Link name="Official webpage" url="http://brandonsanderson.com/books/mistborn/shadows-of-self/"/>
+                <Link name="Goodreads" url="https://www.goodreads.com/book/show/16065004-shadows-of-self"/>
+            </Book>
+            <Book title="The Bands of Mourning" cover="http://brandonsanderson.com/beta/wp-content/uploads/2013/07/The_Bands_of_Mourning_thumb.jpg"
+                  publicationDate="2016-01-26" pages="336" chapters="0" words="0" rate="0" ratings="0">
+                <Synopsis><![CDATA[
+                    With <em>The Alloy of Law</em> and <em>Shadows of Self</em>, Brandon Sanderson surprised readers with a <em>New York Times</em> bestselling spinoff of his Mistborn books, set after the action of the
+                    trilogy, in a period corresponding to late 19th-century America.<br><br>Now, with <em>The Bands of Mourning</em>, Sanderson continues the story. The Bands of Mourning are the mythical metalminds owned
+                    by the Lord Ruler, said to grant anyone who wears them the powers that the Lord Ruler had at his command. Hardly anyone thinks they really exist. A kandra researcher has returned to Elendel with images
+                    that seem to depict the Bands, as well as writings in a language that no one can read. Waxillium Ladrian is recruited to travel south to the city of New Seran to investigate. Along the way he discovers
+                    hints that point to the true goals of his uncle Edwarn and the shadowy organization known as The Set.
+                ]]></Synopsis>
+
+                <Link name="Official webpage" url="http://brandonsanderson.com/books/mistborn/the-bands-of-mourning/"/>
+                <Link name="Goodreads" url="https://www.goodreads.com/book/show/18739426-the-bands-of-mourning"/>
+            </Book>
+        </BookMiniSerie>
+        <BookMiniSerie title="1980" miniTitle="1980" total="3" />
+        <BookMiniSerie title="Space Opera" miniTitle="2200" total="3" />
+    </BookSerie>
+
+    <BookSerie title="The Reckoners">
+        <BookMiniSerie total="4" genre="Young Adult Fantasy" coverArtist="">
+            <Publisher name="Random House Childrens Books" country="US"/>
+            <Publisher name="Gollancz" country="UK"/>
+            <Publisher name="Delacorte Press" country="US"/>
+
+            <Book title="Steelheart" cover="http://brandonsanderson.com/beta/wp-content/uploads/2013/07/Steelheart_trade_thumb.jpg"
+                  publicationDate="2013-09-24" pages="386" chapters="43" words="0" rate="4.15" ratings="66888">
+                <Synopsis><![CDATA[
+                    Ten years ago, Calamity came. It was a burst in the sky that gave ordinary men and women extraordinary powers. The awed public started calling them Epics. But Epics are no friend of man. With
+                    incredible gifts came the desire to rule. And to rule man you must crush his wills.<br><br>Nobody fights the Epics...nobody but the Reckoners. A shadowy group of ordinary humans, they spend their
+                    lives studying Epics, finding their weaknesses, and then assassinating them.<br><br>And David wants in. He wants Steelheart - the Epic who is said to be invincible. The Epic who killed David's father.
+                    For years, like the Reckoners, David's been studying, and planning - and he has something they need. Not an object, but an experience.<br><br>He's seen Steelheart bleed. And he wants revenge.
+                ]]></Synopsis>
+
+                <Award title="Whitney" category="Best Young Adult Speculative" year="2013" organization="LDStorymakers" result="Won"/>
+                <Award title="Goodreads Choice" category="Best Young Adult Fantasy" year="2013" organization="Goodreads" result="Nominated"/>
+                <Bestseller organization="New York Times" category="Young Adult" result="1"/>
+
+                <Link name="Official webpage" url="http://brandonsanderson.com/books/steelheart/steelheart/"/>
+                <Link name="Goodreads" url="https://www.goodreads.com/book/show/17182126.Steelheart"/>
+            </Book>
+            <Book title="Mitosis" cover="http://brandonsanderson.com/beta/wp-content/uploads/2013/07/mitosis-thumb1.jpg"
+                  publicationDate="2013-12-03" pages="35" chapters="5" words="0" rate="3.89" ratings="13289">
+                <Synopsis><![CDATA[
+                    From "New York Times" bestselling author Brandon Sanderson's action-packed novel "Steelheart" comes "Mitosis," a short story set in the world of The Reckoners series, exclusively available in the digital format.</em>
+                    <br><br>Steelheart may be dead, but Epics still plague Newcago and David and the Reckoners have vowed to fight back.
+                ]]></Synopsis>
+
+                <Link name="Official webpage" url="http://brandonsanderson.com/books/steelheart/mitosis/"/>
+                <Link name="Goodreads" url="https://www.goodreads.com/book/show/18966322-mitosis"/>
+            </Book>
+            <Book title="Firefight" cover="http://brandonsanderson.com/beta/wp-content/uploads/2013/07/firefight-thumb.jpg"
+                  publicationDate="2015-01-06" pages="416" chapters="53" words="0" rate="4.33" ratings="24673">
+                <Synopsis><![CDATA[
+                    They told David it was impossible--that even the Reckoners had never killed a High Epic. Yet, Steelheart--invincible, immortal, unconquerable--is dead. And he died by David's hand.
+                    <br><br>Eliminating Steelheart was supposed to make life more simple. Instead, it only made David realize he has questions. Big ones. And there's no one in Newcago who can give him the
+                    answers he needs. <br><br>Babylon Restored, the old borough of Manhattan, has possibilities, though. Ruled by the mysterious High Epic, Regalia, David is sure Babylon Restored will lead
+                    him to what he needs to find. And while entering another city oppressed by a High Epic despot is a gamble, David's willing to risk it. Because killing Steelheart left a hole in David's heart.
+                    A hole where his thirst for vengeance once lived. Somehow, he filled that hole with another Epic--Firefight. And he's willing to go on a quest darker, and more dangerous even, than the fight
+                    against Steelheart to find her, and to get his answers.
+                ]]></Synopsis>
+
+                <Award title="Goodreads Choice" category="Best Young Adult Fantasy" year="2015" organization="Goodreads" result="Nominated"/>
+                <Bestseller organization="New York Times" category="Young Adult" result="1"/>
+
+                <Link name="Official webpage" url="http://brandonsanderson.com/books/steelheart/firefight/"/>
+                <Link name="Goodreads" url="https://www.goodreads.com/book/show/15704459.Firefight"/>
+            </Book>
+            <Book title="Calamity" cover="http://brandonsanderson.com/beta/wp-content/uploads/2013/07/Calamity_thumb.jpg"
+                  publicationDate="2016-02-18" pages="432" chapters="0" words="0" rate="0" ratings="0">
+                <Synopsis><![CDATA[
+                    When Calamity lit up the sky, the Epics were born. David’s fate has been tied to their villainy ever since that historic night. Steelheart killed his father. Firefight stole his heart. And now Regalia
+                    has turned his closest ally into a dangerous enemy.<br><br> David knew Prof’s secret, and kept it even when Prof struggled to control the effects of his Epic powers. But facing Obliteration in Babilar
+                    was too much. Once the Reckoners’ leader, Prof has now embraced his Epic destiny. He’s disappeared into those murky shadows of menace Epics are infamous for the world over, and everyone knows there’s no
+                    turning back... <br><br> But everyone is wrong. Redemption is possible for Epics—Megan proved it. They’re not lost. Not completely. And David is just about crazy enough to face down the most powerful
+                    High Epic of all to get his friend back. Or die trying.
+                ]]></Synopsis>
+
+                <Link name="Official webpage" url="http://brandonsanderson.com/books/steelheart/calamity/"/>
+                <Link name="Goodreads" url="https://www.goodreads.com/book/show/15704486-calamity"/>
+            </Book>
+        </BookMiniSerie>
+    </BookSerie>
+
+    <BookSerie title="Elantris">
+        <BookMiniSerie total="1" genre="High Fantasy" coverArtist="Stephan Martinière">
+            <Publisher name="Tor Books" country="US"/>
+
+            <Book title="Elantris" cover="http://brandonsanderson.com/beta/wp-content/uploads/2013/07/elantris-book.jpg"
+                  publicationDate="2005-04-21" pages="590" chapters="64" words="0" rate="4.14" ratings="70720">
+                <Synopsis><![CDATA[
+                    Elantris was the capital of Arelon: gigantic, beautiful, literally radiant, filled with benevolent beings who used their powerful magical abilities for the benefit of all. Yet each of these demigods
+                    was once an ordinary person until touched by the mysterious transforming power of the Shaod. Ten years ago, without warning, the magic failed. Elantrians became wizened, leper-like, powerless
+                    creatures, and Elantris itself dark, filthy, and crumbling.<br><br>Arelon's new capital, Kae, crouches in the shadow of Elantris. Princess Sarene of Teod arrives for a marriage of state with Crown
+                    Prince Raoden, hoping -- based on their correspondence -- to also find love. She finds instead that Raoden has died and she is considered his widow. Both Teod and Arelon are under threat as the last
+                    remaining holdouts against the imperial ambitions of the ruthless religious fanatics of Fjordell. So Sarene decides to use her new status to counter the machinations of Hrathen, a Fjordell high priest
+                    who has come to Kae to convert Arelon and claim it for his emperor and his god.<br><br>But neither Sarene nor Hrathen suspect the truth about Prince Raoden. Stricken by the same curse that ruined
+                    Elantris, Raoden was secretly exiled by his father to the dark city. His struggle to help the wretches trapped there begins a series of events that will bring hope to Arelon, and perhaps reveal the
+                    secret of Elantris itself.<br><br>A rare epic fantasy that doesn't recycle the classics and that is a complete and satisfying story in one volume, Elantris is fleet and fun, full of surprises and
+                    characters to care about. It's also the wonderful debut of a welcome new star in the constellation of fantasy.
+                ]]></Synopsis>
+
+                <Award title="Romantic Times" category="Best Epic Fantasy" year="2005" organization="Romantic Times" result="Won"/>
+                <Award title="Barnes &amp; Noble" category="Explorations' #1 Editor's Pick" year="2005" organization="Barnes &amp; Noble" result="Mention"/>
+                <Award title="SF Book Club" category="Selection" year="2005" organization="SF Book Club" result="Mention"/>
+
+                <Link name="Official webpage" url="http://brandonsanderson.com/books/elantris/elantris/"/>
+                <Link name="Goodreads" url="https://www.goodreads.com/book/show/68427.Elantris"/>
+            </Book>
+            </BookMiniSerie>
+        <BookMiniSerie total="1" genre="Fantasy" coverArtist="Alexander Nanitchkov">
+            <Publisher name="Tachyon Publications" country="US"/>
+
+            <Book title="The Emperor's Soul" cover="http://brandonsanderson.com/beta/wp-content/uploads/2013/07/the-emperors-soul.jpg"
+                  publicationDate="2012-11-01" pages="175" chapters="16" words="0" rate="4.30" ratings="25892">
+                <Synopsis><![CDATA[
+                    A heretic thief is the empire’s only hope in this fascinating tale that inhabits the same world as the popular novel, <em>Elantris</em>.<br><br>Shai is a Forger, a foreigner who can flawlessly copy
+                    and re-create any item by rewriting its history with skillful magic. Condemned to death after trying to steal the emperor’s scepter, she is given one opportunity to save herself. Though her skill as a
+                    Forger is considered an abomination by her captors, Shai will attempt to create a new soul for the emperor, who is almost dead. <br><br>Probing deeply into his life, she discovers Emperor Ashravan’s
+                    truest nature—and the opportunity to exploit it. Her only possible ally is one who is truly loyal to the emperor, but councilor Gaotona must overcome his prejudices to understand that Shai’s forgery
+                    is as much artistry as it is deception.<br><br>Brimming with magic and political intrigue, this deftly woven fantasy delves into the essence of a living spirit.
+                ]]></Synopsis>
+
+                <Award title="Hugo" category="Best Novella" year="2013" organization="World Science Fiction Society" result="Won"/>
+                <Award title="Goodreads Choice" category="Best Fantasy Novel" year="2012" organization="Goodreads" result="Nominated"/>
+                <Award title="World Fantasy" category="Best Novella" year="2013" organization="World Fantasy Convention" result="Nominated"/>
+
+                <Link name="Official webpage" url="http://brandonsanderson.com/books/elantris/the-emperors-soul/"/>
+                <Link name="Goodreads" url="https://www.goodreads.com/book/show/13578175-the-emperor-s-soul"/>
+            </Book>
+        </BookMiniSerie>
+    </BookSerie>
+
+    <BookSerie title="The Rithmatist">
+        <BookMiniSerie total="3" genre="Young Adult Fantasy" coverArtist="">
+            <Publisher name="" country="US"/>
+
+            <Book title="The Rithmatist" cover="http://brandonsanderson.com/beta/wp-content/uploads/2013/07/the-rithmatist-book.jpg"
+                  publicationDate="2013-05-13" pages="353" chapters="60" words="0" rate="4.23" ratings="25077">
+                <Synopsis><![CDATA[
+                    More than anything, Joel wants to be a Rithmatist. Rithmatists have the power to infuse life into two-dimensional figures known as Chalklings. Rithmatists are humanity’s only defense against the
+                    Wild Chalklings. Having nearly overrun the territory of Nebrask, the Wild Chalklings now threaten all of the American Isles.<br><br>As the son of a lowly chalkmaker at Armedius Academy, Joel can
+                    only watch as Rithmatist students learn the magical art that he would do anything to practice. Then students start disappearing—kidnapped from their rooms at night, leaving trails of blood.
+                    Assigned to help the professor who is investigating the crimes, Joel and his friend Melody find themselves on the trail of an unexpected discovery—one that will change Rithmatics—and their
+                    world—forever.
+                ]]></Synopsis>
+
+                <Award title="BFYA" category="Best Fiction for YA" year="2013" organization="" result="Nominated"/>
+                <Award title="Audie" category="Fantasy Book" year="2013" organization="" result="Nominated"/>
+                <Award title="New York Times Book Review" category="Notable Children's Books of the Year" year="2013" organization="" result="Honorable Mention"/>
+                <Award title="Kirkus Reviews" category="Best Books of the Year" year="2013" organization="" result="Honorable Mention"/>
+
+                <Link name="Official webpage" url="http://brandonsanderson.com/books/the-rithmatist/the-rithmatist/"/>
+                <Link name="Goodreads" url="https://www.goodreads.com/book/show/10137823.The_Rithmatist"/>
+            </Book>
+        </BookMiniSerie>
+    </BookSerie>
+
+    <BookSerie title="Warbreaker">
+        <BookMiniSerie total="1" genre="Fantasy" coverArtist="">
+            <Publisher name="Tor Books" country="US"/>
+
+            <Book title="Warbreaker" cover="http://brandonsanderson.com/beta/wp-content/uploads/2013/07/warbreaker-book.jpg"
+                  publicationDate="2009-06-09" pages="592" chapters="60" words="0" rate="4.18" ratings="46381">
+                <Synopsis><![CDATA[
+                    Sisters Vivenna and Siri are princesses of Idris. Susebron is the God King one must marry. Lightsong is the reluctant minor god of bravery. Vasher is an immortal still trying to undo mistakes of
+                    centuries before. Magic from individual <em>breath</em> from everyday objects can perform all manner of miracles and mischief.
+                ]]></Synopsis>
+
+                <Award title="Whitney" category="Best Speculative Fiction" year="2009" organization="LDStorymakers" result="Nominated"/>
+
+                <Award title="Library Journal" category="5 best SF&amp;F novels" year="2009" organization="" result="Mention"/>
+                <Award title="Barnes &amp; Noble" category="5 best SF&amp;F novels" year="2009" organization="" result="Mention"/>
+                <Award title="The Onion A.V. Club" category="Best of Year" year="2009" organization="" result="Mention"/>
+                <Award title="David Gemmell Legend" category="Best Novel" year="2009" organization="" result="Nominated"/>
+                <Award title="Romantic Times" category="Best Epic Fantasy" year="2009" organization="Romantic Times" result="Nominated"/>
+                <Award title="ALA" category="Best 5 Fantasy" year="2009" organization="" result="Mention"/>
+                <Bestseller organization="New York Times" category="Hardcover Fiction" result="24"/>
+
+                <Link name="Official webpage" url="http://brandonsanderson.com/books/warbreaker/warbreaker/"/>
+                <Link name="Goodreads" url="https://www.goodreads.com/book/show/1268479.Warbreaker"/>
+            </Book>
+        </BookMiniSerie>
+    </BookSerie>
+
+    <BookSerie title="Legion">
+        <BookMiniSerie total="2" genre="Science Fiction Novella" coverArtist="">
+            <Publisher name="Subterranean Press" country="US"/>
+
+            <Book title="Legion" cover="http://brandonsanderson.com/beta/wp-content/uploads/2013/07/legion-book.jpg"
+                  publicationDate="2012-09-11" pages="88" chapters="8" words="0" rate="4.11" ratings="18117">
+                <Synopsis><![CDATA[
+                    Stephen Leeds, AKA <em>Legion</em>, is a man whose unique mental condition allows him to generate a multitude of personae: hallucinatory entities with a wide variety of personal characteristics and a
+                    vast array of highly specialized skills. As the story begins, Leeds and his 'aspects' are drawn into the search for the missing Balubal Razon, inventor of a camera whose astonishing properties
+                    could alter our understanding of human history and change the very structure of society.
+                ]]></Synopsis>
+
+                <Link name="Official webpage" url="http://brandonsanderson.com/books/legion/legion/"/>
+                <Link name="Goodreads" url="https://www.goodreads.com/book/show/13452375.Legion"/>
+            </Book>
+            <Book title="Legion: Skin Deep" cover="http://brandonsanderson.com/beta/wp-content/uploads/2013/07/Legion-Skin-Deep-Jon-Foster-thumb.jpg"
+                  publicationDate="2014-11-24" pages="208" chapters="0" words="0" rate="4.08" ratings="6630">
+                <Synopsis><![CDATA[
+                    Stephen Leeds, AKA <em>Legion</em>, is a man whose unique mental condition allows him to generate a multitude of personae: hallucinatory entities with a wide variety of personal characteristics and a vast
+                    array of highly specialized skills. As the new story begins, Leeds and his “aspects” are hired by I3 (Innovative Information Incorporated) to recover a corpse stolen from the local morgue. But
+                    there’s a catch. The corpse is that of a pioneer in the field of experimental biotechnology, a man whose work concerned the use of the human body as a massive storage device. He may have embedded
+                    something in the cells of his now dead body. And that something might be dangerous…<br><br>What follows is a visionary thriller about the potential uses of technology, the mysteries of the human
+                    personality, and the ancient human need to believe that death is not the end. Legion: Skin Deep is speculative fiction at it most highly developed. It reaffirms Sanderson’s place as one of contemporary
+                    fiction’s most intelligent—and unpredictable—voices.
+                ]]></Synopsis>
+
+                <Link name="Official webpage" url="http://brandonsanderson.com/books/legion/legion-skin-deep/"/>
+                <Link name="Goodreads" url="https://www.goodreads.com/book/show/20886354.Legion__Skin_Deep"/>
+            </Book>
+        </BookMiniSerie>
+    </BookSerie>
+
+    <BookSerie title="Alcatraz Versus">
+        <BookMiniSerie total="5" genre="Children Fantasy" coverArtist="Marc Tauss">
+            <Publisher name="Scholastic Press" country="US"/>
+
+            <Book title="Alcatraz Versus the Evil Librarians" cover="http://brandonsanderson.com/beta/wp-content/uploads/2013/07/alcatraz-versus-the-evil-librarians.jpg"
+                  publicationDate="2007-10-01" pages="320" chapters="20" words="0" rate="3.86" ratings="10488">
+                <Synopsis><![CDATA[
+                    <p>A hero with an incredible talent...for breaking things. A life-or-death mission...to rescue a bag of sand. A fearsome threat from a powerful secret network...the evil Librarians.
+                    <br><br>Alcatraz Smedry doesn't seem destined for anything but disaster. On his 13th birthday he receives a bag of sand, which is quickly stolen by the cult of evil Librarians plotting to take
+                    over the world. The sand will give the Librarians the edge they need to achieve world domination. Alcatraz must stop them!...by infiltrating the local library, armed with nothing but eyeglasses
+                    and a talent for klutzines</p>
+                ]]></Synopsis>
+
+                <Award title="Whitney" category="Best Youth Fiction" year="2007" organization="LDStorymakers" result="Nominated"/>
+
+                <Link name="Official webpage" url="http://brandonsanderson.com/books/alcatraz/alcatraz-versus-the-evil-librarians/"/>
+                <Link name="Goodreads" url="https://www.goodreads.com/book/show/623976.Alcatraz_Versus_the_Evil_Librarians"/>
+            </Book>
+            <Book title="Alcatraz Versus the Scrivener's Bones" cover="http://brandonsanderson.com/beta/wp-content/uploads/2013/07/alcatraz-versus-the-scriveners-bones.jpg"
+                  publicationDate="2008-11-01, " pages="336" chapters="20" words="0" rate="4.09" ratings="5201">
+                <Synopsis><![CDATA[
+                    Alcatraz Smedry is back with a new mission!<br><br>The Evil Librarians are still up to their antics and it's up to Alcatraz Smedry to put a stop to it! This second book will take Alcatraz and company
+                    on an exploration of the Library of Alexandria, which -- despite Librarian rumors -- was never destroyed. It is a mysterious place and everyone knows that it holds dark secrets. Can Alcatraz, with
+                    his talent for breaking things, break into this secret world? Or will the Evil Librarians once again prevail?
+                ]]></Synopsis>
+
+                <Link name="Official webpage" url="http://brandonsanderson.com/books/alcatraz/alcatraz-versus-the-scriveners-bones/"/>
+                <Link name="Goodreads" url="https://www.goodreads.com/book/show/3485562-alcatraz-versus-the-scrivener-s-bones"/>
+
+            </Book>
+            <Book title="Alcatraz Versus the Knights of Crystallia" cover="http://brandonsanderson.com/beta/wp-content/uploads/2013/07/alcatraz-versus-the-knights-of-crystallia.jpg"
+                  publicationDate="2009-10-01" pages="299" chapters="22" words="0" rate="4.09" ratings="4038">
+                <Synopsis><![CDATA[
+                    Nancy Pearl loves this series and we do too!<br><br>When Alcatraz and Grandpa Smedry make a pilgrimage to the Free Kingdom city of Crystallia, the Smedry home base, Alcatraz is shocked to see that he
+                    is, in fact, a legend. When he was a baby he was stolen by the Evil Librarians, and his mother, a Librarian herself, was behind the whole scheme. Now, with his estranged father, who is acting indeed
+                    strange, Bastille, who has been stripped of her armor, and Grandpa Smedry, who is, as always, late to everything (that's his Talent), Alcatraz tries to save a city under siege. From who? Why, the
+                    Librarians of course!
+                ]]></Synopsis>
+
+                <Link name="Official webpage" url="http://brandonsanderson.com/books/alcatraz/alcatraz-versus-the-knights-of-crystallia/"/>
+                <Link name="Goodreads" url="https://www.goodreads.com/book/show/6366110-alcatraz-versus-the-knights-of-crystallia"/>
+            </Book>
+            <Book title="Alcatraz Versus the Shattered Lens" cover="http://brandonsanderson.com/beta/wp-content/uploads/2013/07/alcatraz-versus-the-shattered-lens.jpg"
+                  publicationDate="2010-12-01" pages="320" chapters="21" words="0" rate="4.10" ratings="3243">
+                <Synopsis><![CDATA[
+                    The fourth and final book in the fabulously funny Alcatraz Smedry series! Alcatraz Smedry is on a mission to save the day! In his final adventure in the series by best-selling adult fantasy writer
+                    Brandon Sanderson, Alcatraz has a lot to prove and, as always, little time in which to do it!
+                ]]></Synopsis>
+
+                <Link name="Official webpage" url="http://brandonsanderson.com/books/alcatraz/alcatraz-versus-the-shattered-lens/"/>
+                <Link name="Goodreads" url="https://www.goodreads.com/book/show/7740659-alcatraz-versus-the-shattered-lens"/>
+            </Book>
+            <Book title="The Dark Talent" cover="http://brandonsanderson.com/beta/wp-content/uploads/2013/07/alcatraz-versus-the-dark-talent.jpg"
+                  publicationDate="2016-09-7" pages="0" chapters="0" words="0" rate="0" ratings="0">
+                <Synopsis><![CDATA[
+                    Alcatraz Smedry has successfully defeated the army of Evil Librarians and saved the kingdom of Mokia. Too bad he managed to break the Smedry Talents in the process. Even worse, his father is trying
+                    to enact a scheme that could ruin the world, and his friend, Bastille, is in a coma. To revive her, Alcatraz must infiltrate the Highbrary–known as The Library of Congress to Hushlanders–the seat of
+                    Evil Librarian power. Without his Talent to draw upon, can Alcatraz figure out a way to save Bastille and defeat the Evil Librarians once and for all?
+                ]]></Synopsis>
+
+                <Link name="Official webpage" url="http://brandonsanderson.com/?page_id=8644"/>
+                <Link name="Goodreads" url="https://www.goodreads.com/book/show/18714787-the-dark-talent"/>
+            </Book>
+
+        </BookMiniSerie>
+    </BookSerie>
+
+    <BookSerie title="Infinity Blade">
+        <BookMiniSerie total="2" genre="Fantasy novella" coverArtist="">
+
+            <Book title="Infinity Blade: Awakening" cover="http://brandonsanderson.com/beta/wp-content/uploads/2013/07/infinity-blade-awakening.jpg"
+                  publicationDate="2011-10-03" pages="128" chapters="9" words="0" rate="3.84" ratings="5508">
+                <Synopsis><![CDATA[
+                    Trained from birth in swordplay and combat, a young knight named Siris has journeyed to the Dark Citadel with a single purpose: fight through the army of Titans to face the tyrannical God King in
+                    one-on-one combat. This was his father’s sacred mission, and his father’s before him, going back countless generations in an effort to free their people from enslavement. But when Siris somehow
+                    succeeds where all those from his bloodline previously have failed, he finds himself cast into a much larger world, filled with warriors and thieves, ancient feuds and shifting alliances,
+                    Deathless immortals and would-be kings. His quest for freedom will take him on an epic journey in search of the mythical figure known as the Worker of Secrets – the one being in the world who can
+                    unravel the secrets of the Infinity Blade.<br><br>Based on the bestselling video game from ChAIR Entertainment and Epic Games, this all-new adventure from acclaimed fantasy author Brandon Sanderson
+                    digs deeper into the fantastical world of Infinity Blade, a world of mystery and intrigue where magic and technology are indistinguishable, and even life and death are not what they seem.
+                ]]></Synopsis>
+
+                <Link name="Official webpage" url="http://brandonsanderson.com/books/infinity-blade/infinity-blade-awakening/"/>
+                <Link name="Goodreads" url="https://www.goodreads.com/book/show/12796771.Infinity_Blade_Awakening"/>
+            </Book>
+            <Book title="Infinity Blade: Redemption" cover="http://brandonsanderson.com/beta/wp-content/uploads/2013/08/infinity-blade-redemption.jpg"
+                  publicationDate="2013-09-08" pages="174" chapters="0" words="0" rate="3.93" ratings="2294">
+                <Synopsis><![CDATA[
+                    Long months have passed since Siris and the God King, enemies betrayed together, were left to rot in the prison at the Vault of Tears. Their true enemy - the Worker of Secrets, creator of the Infinity
+                    Blade itself - now reigns. Upon finally obtaining freedom, Siris must unravel plots that seem to make no sense, lead a rebellion with no direction, and fight against the division with his very heart.
+                    The secrets unraveled will dig backward in time toward the origins of the Deathless and the true nature of the world itself...<br><br>From #1 bestselling author Brandon Sanderson and ChAIR
+                    entertainment, creators of the blockbuster Infinity Blade video game series, comes the second novel in the epic Infinity Blade saga. This latest take delves deeper into the fantastical world of
+                    Infinity Blade, a world of mystery and intrigue where magic and technology are indistinguishable, and even life and death are not as they seem.
+                ]]></Synopsis>
+
+                <Link name="Official webpage" url="http://brandonsanderson.com/books/infinity-blade/infinity-blade-redemption/"/>
+                <Link name="Goodreads" url="https://www.goodreads.com/book/show/18361393-redemption"/>
+            </Book>
+        </BookMiniSerie>
+    </BookSerie>
+
+    <BookSerie title="Short Fiction">
+        <BookMiniSerie total="3" genre="Short works">
+
+            <Book title="Elantris: The Hope of Elantris" cover="http://i.gr-assets.com/images/S/photo.goodreads.com/books/1328393655i/10852065._UY81_.jpg"
+                  publicationDate="2006-01-01" pages="25" chapters="1" words="0" rate="3.69" ratings="1744">
+                <Synopsis><![CDATA[
+                    The following is a short story I wrote in the Elantris world back in January of 2006. At that point, Elantris had only been out in stores for about seven or eight months, but I actually hadn't written
+                    anything new on the story or world since 2000, when I'd finished the first draft of the original book. This story was originally posted for sale on Amazon.com; once the contract with them ran out,
+                    I posted it on my website.<br><br>There were always a few holes in the manuscript where I decided not to include viewpoints or sections of explanation in the name of streamlining, particularly at the
+                    end. In the back of my mind, I knew what happened. This story talks about one of those holes; it is meant to be read after you've finished the novel and takes place during the events of the climax.
+                    In the annotation, I've written a further explanation of why I wrote this piece. Some of you may find it interesting to read this ahead of time; I put it in the annotation, however, as I know others
+                    would rather enjoy the story without bias beforehand, then read my thoughts afterward. <br><br><strong> <em>Either way, if you haven't read the novel Elantris, this contains major spoilers. Might I
+                    suggest reading the book first? This story won't work at all for you if you haven't.</em>
+                ]]></Synopsis>
+
+                <Link name="Official webpage" url="http://brandonsanderson.com/elantris-the-hope-of-elantris/"/>
+                <Link name="Goodreads" url="https://www.goodreads.com/book/show/10852065-the-hope-of-elantris"/>
+            </Book>
+            <Book title="Perfect State" cover="http://brandonsanderson.com/beta/wp-content/uploads/2015/03/Perfect-State-cover-thumb.jpg"
+                  publicationDate="2015-03-31" pages="87" chapters="8" words="0" rate="4.08" ratings="3263">
+                <Synopsis><![CDATA[
+                    An action-filled novella about privilege, culture clash, and expectations.<br><br>God-Emperor Kairominas is lord of all he surveys. He has defeated all foes, has united the entire world beneath his
+                    rule, and has mastered the arcane arts. He spends his time sparring with his nemesis, who keeps trying to invade Kai's world.<br><br>Except for today. Today, Kai has to go on a date.<br><br>Forces
+                    have conspired to require him to meet with his equal—a woman from another world who has achieved just as much as he has. What happens when the most important man in the world is forced to have dinner
+                    with the most important woman in the world?
+                ]]></Synopsis>
+
+                <Link name="Official webpage" url="http://brandonsanderson.com/perfect-state/"/>
+                <Link name="Goodreads" url="https://www.goodreads.com/book/show/25188109-perfect-state"/>
+            </Book>
+            <Book title="Sixth of the Dusk" cover="http://brandonsanderson.com/beta/wp-content/uploads/2014/10/cover_thumb.jpg"
+                  publicationDate="2014-06-28" pages="96" chapters="1" words="0" rate="4.19" ratings="3759">
+                <Synopsis><![CDATA[
+                    Brandon Sanderson's <em>Sixth of the Dusk</em>, set in his Cosmere universe, showcases a society on the brink of technological change. On the deadly island of Patji, where predators can sense the
+                    thoughts of their prey, a lone trapper discovers that the island is not the only thing out to kill him. <br><br>One of four stories in the <em>Shadows Beneath: The Writing Excuses Anthology</em>.
+                ]]></Synopsis>
+
+                <Link name="Official webpage" url="http://brandonsanderson.com/sixth-of-the-dusk-ebook/"/>
+                <Link name="Goodreads" url="https://www.goodreads.com/book/show/22739503.Sixth_of_the_Dusk"/>
+                <Link name="Goodreads Anthology" url="https://www.goodreads.com/book/show/21844946.Shadows_Beneath__The_Writing_Excuses_Anthology"/>
+            </Book>
+
+        </BookMiniSerie>
+    </BookSerie>
+
+</Library>

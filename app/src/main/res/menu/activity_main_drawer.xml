@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item android:id="@+id/nav_main"    android:icon="@drawable/ic_summary"         android:title="Summary" />
+        <item android:id="@+id/nav_books"   android:icon="@drawable/ic_menu_library"    android:title="Books" />
+        <item android:id="@+id/nav_blog"    android:icon="@drawable/ic_blog"            android:title="Blog" />
+        <item android:id="@+id/nav_events"  android:icon="@drawable/ic_event"           android:title="Events"/>
+        <item android:id="@+id/nav_twitter" android:icon="@drawable/ic_twitter"         android:title="Twitter"/>
+
+        <item android:id="@+id/nav_tor0" android:icon="@drawable/ic_way_of_kins"        android:title="WoK Tor Reread"/>
+        <item android:id="@+id/nav_tor1" android:icon="@drawable/ic_words_of_radiance"  android:title="WoR Tor Reread" />
+
+        <item android:title="Official Fan Forum">
+            <menu>
+                <group android:checkableBehavior="single">
+                    <item android:id="@+id/nav_17shard" android:icon="@drawable/ic_forum_black_36dp" android:title="17th Shard" />
+                </group>
+            </menu>
+        </item>
+
+        <item android:id="@+id/nav_settings" android:icon="@drawable/ic_settings_black_36dp" android:title="@string/action_settings"/>
+    </group>
+
+    <item android:id="@+id/nav_about" android:icon="@drawable/ic_info_outline_black_36dp" android:title="About"/>
+
+</menu>

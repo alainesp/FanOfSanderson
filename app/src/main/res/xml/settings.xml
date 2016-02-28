@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <PreferenceCategory android:title="Sync">
+
+        <CheckBoxPreference
+            android:key="pref_key_wifi"
+            android:icon="@drawable/ic_network_check_black_36dp"
+            android:title="Only via Wi-fi"
+            android:summary="Ignore mobile internet"
+            android:defaultValue="false" />
+
+        <ListPreference
+            android:key="pref_key_sync_schedule"
+            android:title="Sync Schedule"
+            android:icon="@drawable/ic_sync_black_36dp"
+
+            android:dialogTitle="Set Sync Schedule"
+            android:entries="@array/pref_refresh_intervals"
+            android:entryValues="@array/pref_refresh_intervals_values"
+            android:defaultValue="8"/>
+
+    </PreferenceCategory>
+
+    <PreferenceCategory android:title="Content">
+
+        <com.alainesp.fan.sanderson.TextSizePreference
+            android:key="pref_key_text_size"
+            android:icon="@drawable/ic_text_format_black_36dp"
+            android:title="Text Size"
+            android:summary="16sp"
+            android:defaultValue="16"
+            android:dialogTitle="Set Text Size"/>
+
+    </PreferenceCategory>
+
+    <PreferenceCategory android:title="Maintenance">
+
+        <ListPreference
+            android:key="pref_key_delete_tweets"
+            android:title="Delete tweets"
+            android:icon="@drawable/ic_twitter"
+
+            android:dialogTitle="Delete tweets"
+            android:entries="@array/pref_delete_intervals"
+            android:entryValues="@array/pref_delete_intervals_values"
+            android:defaultValue="7"/>
+
+    </PreferenceCategory>
+
+    <CheckBoxPreference
+        android:key="pref_key_debug"
+        android:icon="@drawable/ic_signal_cellular_connected_no_internet_3_bar_black_36dp"
+        android:title="Debug"
+        android:summary="Show network error messages."
+        android:defaultValue="false" />
+
+</PreferenceScreen>

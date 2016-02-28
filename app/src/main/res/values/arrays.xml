@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="pref_refresh_intervals">
+        <item>Every hour</item>
+        <item>Every 4 hours</item>
+        <item>Every 8 hours</item>
+        <item>Once a day</item>
+        <item>Manual</item>
+    </string-array>
+    <string-array name="pref_refresh_intervals_values">
+        <item>1</item>
+        <item>4</item>
+        <item>8</item>
+        <item>24</item>
+        <item>9999</item>
+    </string-array>
+
+    <string-array name="pref_delete_intervals">
+        <item>Older than 4 days</item>
+        <item>Older than a week</item>
+        <item>Older than 2 week</item>
+        <item>Older than a month</item>
+        <item>Never</item>
+    </string-array>
+    <string-array name="pref_delete_intervals_values">
+        <item>4</item>
+        <item>7</item>
+        <item>14</item>
+        <item>30</item>
+        <item>9999</item>
+    </string-array>
+</resources>
